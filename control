@@ -1,0 +1,9 @@
+Package: de.haitx3004.nohomebar
+Name: nohomebar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide homebar on homescreen
+Maintainer: haitx3004
+Author: haitx3004
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
