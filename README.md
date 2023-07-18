@@ -1,1 +1,1 @@
-# Nohomebar
+Hide homebar on homescreen
